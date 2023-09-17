@@ -1,0 +1,117 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+
+== Preprints
+
+/Situational-Aware Multi-Graph Convolutional Recurrent Network (SA-MGCRN) for Travel Demand Forecasting During Wildfires./ \[[https://arxiv.org/abs/2304.06233 Link]\]\n
+*Xiaojian Zhang*, Xilei Zhao, Yiming Xu, Ruggiero Lovreglio*, Daniel Nilsson.\n
+Under Review.
+
+/ICN: Interactive Convolutional Network for Forecasting Travel Demand of Shared Micromobility./ \[[https://arxiv.org/abs/2306.13897 Link]\]\n
+Yiming Xu, Qian Ke, *Xiaojian Zhang*, Xilei Zhao*.\n
+Under Review.
+
+/Enhancing fairness in AI-based travel demand forecasting models./ \[[https://arxiv.org/abs/2303.01692 Link]\]\n
+*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
+Under Review.
+
+/Examining spatial heterogeneity of ridesourcing demand determinants with explainable machine learning./ \[[https://arxiv.org/abs/2209.07980 Link]\]\n
+*Xiaojian Zhang*, Xiang Yan, Zhengze Zhou, Yiming Xu, Xile Zhao*.\n
+Under Review.
+
+
+
+== Journal Papers
+
+/The short-term impact of congestion taxes on ridesourcing demand and traffic congestion: Evidence from Chicago./ \[[https://www.sciencedirect.com/science/article/abs/pii/S0965856423000812 Link]\]\n
+Yuan Liang, Bingjie Yu, *Xiaojian Zhang*, Yi Lu, Linchuan Yang*.\n
+Transportation Research Part A: Policy and Practice, Accepted, 2023.
+
+/Real-Time forecasting of dockless scooter-sharing demand: A spatio-temporal multi-graph transformer approach./ \[[https://ieeexplore.ieee.org/document/10034433 Link]\]\n
+Yiming Xu, Xilei Zhao\*, *Xiaojian Zhang*, Mudit Paliwal.\n
+IEEE Transactions on Intelligent Transportation Systems, Accepted, 2023.
+
+/Machine learning approach for spatial modeling of ridesourcing demand./ \[[https://www.sciencedirect.com/science/article/pii/S0966692322000333 Link]\]\n
+*Xiaojian Zhang*, Xilei Zhao*.\n
+Journal of Transport Geography, Accepted, 2022.
+
+/A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikeshare./ \[[https://www.sciencedirect.com/science/article/pii/S1361920921003849 Link]\]\n
+Xiang Yan, Wencui Yang, *Xiaojian Zhang*, Yiming Xu, Ilir Bejleri, Xilei Zhao.\n
+Transportation Research Part D: Transport and Environment, Accepted, 2021.
+
+
+== Conference Papers
+
+/Earthquake early warning: Toward modeling optimal protective actions./ \[[https://www.researchgate.net/publication/361823275_Earthquake_Early_Warning_Toward_Modeling_Optimal_Protective_Actions Link]\]\n
+Matthew Wood, *Xiaojian Zhang*, Xilei Zhao, Sara K. McBride, N, Luco, D. Baldwin, Tom Cova.\n
+Proceedings of the 12th National Conference in Earthquake Engineering, Earthquake EngineeringResearch Institute, Salt Lake City, UT. 2022.
+
+/Optimizing demand-responsive paratransit operations: a mixed integer programming approach./ \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9400283 Link]\]\n
+*Xiaojian Zhang*, Yu Yang, Abigail L. Cochran, Noreen McDonald, Xilei Zhao*.\n
+2021 55th Annual Conference on Information Sciences and Systems (CISS) (pp. 1-6). IEEE.
+
+/A dynamic shared bikes rebalancing method based on demand prediction./ \[[https://ieeexplore.ieee.org/abstract/document/8917099 Link]\]\n
+*Xiaojian Zhang*, Hongtai Yang*, Rong Zheng, Zhichen Jin, Bowen Zhou.\n
+2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 238-244). IEEE.
+
+/Earthquake early warning: toward modeling optimal protective actions./ \[[https://www.researchgate.net/publication/361823275_Earthquake_Early_Warning_Toward_Modeling_Optimal_Protective_Actions Link]\]\n
+Matthew Wood, *Xiaojian Zhang*, Xilei Zhao, Sara K. McBride, Nicolas Luco, Dare Baldwin, Thomas J. Cova.\n
+National Earthquake Engineering Conference 12 (12NCEE). In Salt Lake City, Utah, UT, USA.
+
+
+== Presentations/Talks
+
+/The short-term impact of congestion taxes on ridesourcing demand and traffic congestion: evidence from chicago./\n
+Yuan Liang*, Bingjie Yu, *Xiaojian Zhang*.\n
+Transportation Research Board 102nd Annual Meeting, Washington DC, USA.
+
+/Preserving fairness in AI-based travel demand forecasting models./\n
+*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
+Transportation Research Board 102nd Annual Meeting, Washington DC, USA.
+
+/Optimizing rural demand-responsive transport operations for medical trips./\n
+*Xiaojian Zhang*, Abigail L. Cochran, Noreen McDonald, Xilei Zhao*.\n
+TRANSED: Mobility, Accessibility & Demand Response Transportation Conference. Sept. 2022. Virtually.
+
+/Modeling and interpreting protective action decision-making during earthquakes using machine learning./\n
+*Xiaojian Zhang*, Matthew Wood, Xilei Zhao, Sara K. McBride, Nicolas Luco, Dare Baldwin, Thomas J. Cova.\n
+Natural Hazards Center Researchers Meeting 2022. Jul. 2022. Virtually.
+
+/Forecasting person activity during the COVID-19 pandemic: a case study of clematis street in West Palm Beach, Florida./\n
+*Xiaojian Zhang*, Xilei Zhao, Louis Merlin, John Renne.\n
+Natural Hazards Center Researchers Meeting 2022. Jul. 2022. Virtually.
+
+/Forecasting person activity during the COVID-19 pandemic: a case study of clematis street in West Palm Beach, Florida./\n
+*Xiaojian Zhang*, Xilei Zhao, Louis Merlin, John Renne.\n
+The 7th Annual UTC Conference for the Southeastern Region, Boca Raton, FL, USA.
+
+/Examining spatial heterogeneity in the determinants of ridesourcing trips with explainable machine learning./\n
+*Xiaojian Zhang*, Zhengze Zhou, Xiang Yan, Xilei Zhao.\n
+The 7th Annual UTC Conference for the Southeastern Region, Boca Raton, FL, USA.
+
+/Examining spatial heterogeneity in the determinants of ridesourcing trips with explainable machine learning./\n
+*Xiaojian Zhang*, Zhengze Zhou, Xiang Yan, Xilei Zhao.\n
+Transportation Research Board 101st Annual Meeting, Washington DC, USA.
+
+/Optimization of intercity demand response transit service design considering zoning strategy./\n
+Hongtai Yang, Rong Zheng, Wenbo Fan, *Xiaojian Zhang*, Zhaolin Zhang.\n
+Transportation Research Board 100th Annual Meeting, Washington DC, USA.
+
+/A clustering-aided ensemble method for predicting ridesourcing demand in Chicago./\n
+*Xiaojian Zhang*, Xilei Zhao.\n
+The 5th Graduate Research Symposium at the University of Florida Gainesville, FL, USA.
+
+/A clustering-aided ensemble method for predicting ridesourcing demand in Chicago./\n
+*Xiaojian Zhang*, Xilei Zhao.\n
+Transportation Research Board 100th Annual Meeting, Washington DC, USA.
+
+/A dynamic shared bikes rebalancing method based on demand prediction./\n
+*Xiaojian Zhang*, Hongtai Yang*, Rong Zheng, Zhichen Jin, Bowen Zhou.\n
+2019 IEEE Intelligent Transportation Systems Conference (ITSC), Aukland, New Zealand.
+
+== Technical Reports and Datasets
+
+/M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data./ \[[https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-3858v2 Link]\]\n
+Xuechun Li, Joshua, Dimasaka, *Xiaojian Zhang*, Xiao Yu, Chenguang Wang, Hae Young Noh, Xie Hu, Xilei Zhao, Susu Xu.\n
+DesignSafe-CI, Mar. 1st, 2023.
+
