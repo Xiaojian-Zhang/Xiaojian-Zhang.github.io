@@ -3,9 +3,13 @@
 
 == Preprints
 
-/Modeling Protective Action Decision-Making in Earthquakes by Using Explainable Machine Learning and Video Data./ \n
-*Xiaojian Zhang*, Xilei Zhao, Dare Baldwin, Sara McBride, Josephine Bellizzi, Elizabeth S. Cochran, Nicholas Luco, Matthew Wood, and Thomas J. Cova.\n
-First-round revision.
+/Post-hurricane building damage assessment using street-view imagery and structured data: A multi-modal deep learning approach./ \[[https://arxiv.org/abs/2404.07399 Link]\]\n
+ZHuoqun Xue, *Xiaojian Zhang*, David O. Prevett, Jennifer Bridge, Susu Xu, Xilei Zhao*.\n
+Accepted, In press.
+
+/Travel Demand Forecasting: A Fair AI Approach./ \[[https://arxiv.org/abs/2303.01692 Link]\]\n
+*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
+Accepted, In press.
 
 /Situational-Aware Multi-Graph Convolutional Recurrent Network (SA-MGCRN) for Travel Demand Forecasting During Wildfires./ \[[https://arxiv.org/abs/2304.06233 Link]\]\n
 *Xiaojian Zhang*, Xilei Zhao, Yiming Xu, Ruggiero Lovreglio*, Daniel Nilsson.\n
@@ -15,11 +19,15 @@ Under Review.
 Yiming Xu, Qian Ke, *Xiaojian Zhang*, Xilei Zhao*.\n
 Under Review.
 
-/Travel Demand Forecasting: A Fair AI Approach./ \[[https://arxiv.org/abs/2303.01692 Link]\]\n
-*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
-Under Review.
-
 == Journal Papers
+
+/Scalable and rapid building damage detection after hurricane Ian using causal Bayesian networks and InSAR imagery./ [[https://www.sciencedirect.com/science/article/abs/pii/S221242092400133X Link]\]\n
+Chenguang Wang, Yepeng Liu, *Xiaojian Zhang*, Xuechun Li, Vladimir Paramygin, Peter Sheng, Xilei Zhao, Susu Xu.\n
+International Journal of Disaster Risk Reduction, Accepted, 2024.
+
+/Modeling Protective Action Decision-Making in Earthquakes by Using Explainable Machine Learning and Video Data./ [[https://www.nature.com/articles/s41598-024-55584-7 Link]\]\n
+*Xiaojian Zhang*, Xilei Zhao, Dare Baldwin, Sara McBride, Josephine Bellizzi, Elizabeth S. Cochran, Nicholas Luco, Matthew Wood, and Thomas J. Cova.\n
+Scientific Reports, Accepted, 2024.
 
 /Analyzing spatial heterogeneity of ridesourcing demand determinants with explainable machine learning./ \[[https://www.sciencedirect.com/science/article/pii/S0966692323002545 Link]\]\n
 *Xiaojian Zhang*, Xiang Yan, Zhengze Zhou, Yiming Xu, Xile Zhao*.\n
@@ -62,6 +70,10 @@ National Earthquake Engineering Conference 12 (12NCEE). In Salt Lake City, Utah,
 
 
 == Presentations/Talks
+
+/Travel Demand Forecasting: A Fair AI Approach./\n
+*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
+University of Florida AI Graduate Seminar, Gainesville, FL, USA.
 
 /Are mobile device location data biased for human mobility analysis?/\n
 *Xiaojian Zhang*, Xiang Yan, Xilei Zhao*.\n
@@ -116,6 +128,10 @@ Transportation Research Board 100th Annual Meeting, Washington DC, USA.
 2019 IEEE Intelligent Transportation Systems Conference (ITSC), Aukland, New Zealand.
 
 == Technical Reports and Datasets
+
+/Earthquake PA Videos and Annotations./ \[[https://osf.io/pbyzx/ Link]\]\n
+*Xiaojian Zhang*, Dare Baldwin.\n
+Open Science Framework, Feb. 16, 2024.
 
 /M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data./ \[[https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-3858v2 Link]\]\n
 Xuechun Li, Joshua, Dimasaka, *Xiaojian Zhang*, Xiao Yu, Chenguang Wang, Hae Young Noh, Xie Hu, Xilei Zhao, Susu Xu.\n
