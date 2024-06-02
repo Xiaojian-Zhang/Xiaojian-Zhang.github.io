@@ -5,11 +5,7 @@
 
 /Post-hurricane building damage assessment using street-view imagery and structured data: A multi-modal deep learning approach./ \[[https://arxiv.org/abs/2404.07399 Link]\]\n
 ZHuoqun Xue, *Xiaojian Zhang*, David O. Prevett, Jennifer Bridge, Susu Xu, Xilei Zhao*.\n
-Accepted, In press.
-
-/Travel Demand Forecasting: A Fair AI Approach./ \[[https://arxiv.org/abs/2303.01692 Link]\]\n
-*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
-Accepted, In press.
+Under Review.
 
 /Situational-Aware Multi-Graph Convolutional Recurrent Network (SA-MGCRN) for Travel Demand Forecasting During Wildfires./ \[[https://arxiv.org/abs/2304.06233 Link]\]\n
 *Xiaojian Zhang*, Xilei Zhao, Yiming Xu, Ruggiero Lovreglio*, Daniel Nilsson.\n
@@ -17,9 +13,13 @@ Under Review.
 
 /ICN: Interactive Convolutional Network for Forecasting Travel Demand of Shared Micromobility./ \[[https://arxiv.org/abs/2306.13897 Link]\]\n
 Yiming Xu, Qian Ke, *Xiaojian Zhang*, Xilei Zhao*.\n
-Under Review.
+Under Second-round Review.
 
 == Journal Papers
+
+/Travel Demand Forecasting: A Fair AI Approach./ \[https://ieeexplore.ieee.org/abstract/document/10529943/ Link]\]\n
+*Xiaojian Zhang*, Qian Ke, Xilei Zhao*.\n
+IEEE Transactions on Intelligent Transportation Systems.
 
 /Scalable and rapid building damage detection after hurricane Ian using causal Bayesian networks and InSAR imagery./ [[https://www.sciencedirect.com/science/article/abs/pii/S221242092400133X Link]\]\n
 Chenguang Wang, Yepeng Liu, *Xiaojian Zhang*, Xuechun Li, Vladimir Paramygin, Peter Sheng, Xilei Zhao, Susu Xu.\n
