@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Main</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="publication.html">Publications</a></div>
+<div class="menu-item"><a href="services.html">Services</a></div>
+<div class="menu-item"><a href="awards.html">Awards</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research</h1>
+</div>
+<ul>
+<li><p><a href="research1.html" target=&ldquo;blank&rdquo;>Responsible AI: Prediction Accuracy</a>
+</p>
+</li>
+<li><p><a href="research2.html" target=&ldquo;blank&rdquo;>Responsible AI: Model Transparency and Explainability</a>
+</p>
+</li>
+<li><p><a href="research3.html" target=&ldquo;blank&rdquo;>Responsible AI: Algorithmic Fairness</a>
+</p>
+</li>
+<li><p><a href="research4.html" target=&ldquo;blank&rdquo;>Multi-sourced Big Data Analytics</a>
+</p>
+</li>
+<li><p><a href="research5.html" target=&ldquo;blank&rdquo;>Transportation and Community Resilience</a>
+</p>
+</li>
+</ul>
+<table class="imgtable"><tr><td>
+<img src="figures/explainability0.png" alt="Xiaojian Zhang" width="400px" height="350px" />&nbsp;</td>
+<td align="left"><p>Besides achieving high accuracy, it is also crucial to understand which factors most significantly contribute to travel demand predictions and their relationships, as these behavioral insights can be used to develop effective transportation policies and interventions. However, there is a notable trade-off between machine learning model's prediction performance and interpretability. The model with higher prediction performance is usually less explainable, and the model with higher transparency (explainability) is often less accurate. Recognizing this, we have developed <b>two novel AI-based travel demand forecasting methods that significantly enhance model explainability while maintaining prediction accuracy, pushing the trade-off between accuracy and model explainability to a new boundary</b>.
+</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="figures/explainability1.png" alt="Xiaojian Zhang" width="800px" height="350px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<h2>Compositional Model: Clustering-aided Ensemble Method</h2>
+<table class="imgtable"><tr><td>
+<img src="figures/explainability2.jpg" alt="Xiaojian Zhang" width="650px" height="800px" />&nbsp;</td>
+<td align="left"><p>We proposed a GeoXAI (Geospatial Explainable AI) framework named <i>Clustering-aided Ensemble Method (CEM)</i> to forecast ridehailing services demand and identify key factors that shape ridehailing demand across space. We first applied K-Means to group the ridehailing-trip Origin-Destination (OD) Paris into five clusters based on their unique spatial characteristics. Then, we built cluster-specifc model, and use some explaination tools (such as variable importance) to interpret each cluster. Spatial heterogeneity was accounted for in the clustering process.
+</p>
+</td></tr></table>
+<p>[<a href="https://www.sciencedirect.com/science/article/pii/S0966692322000333" target=&ldquo;blank&rdquo;>Link</a>] Zhang, X., &amp; Zhao, X. (2022). Machine learning approach for spatial modeling of ridesourcing demand. Journal of Transport Geography, 100(C).
+</p>
+<h2>Global Model</h2>
+<table class="imgtable"><tr><td>
+<img src="figures/explainability3.jpg" alt="Xiaojian Zhang" width="700px" height="400px" />&nbsp;</td>
+<td align="left"><p>We proposed another GeoXAI framework as a complement to the compositional model to identify key factors that shape ridehailing demand across space by using only a global model. We captured the spatial heterogeneity by including the geographical coordinates of each observation as features into the machine learning model. Then, we explained the model's decision-making process across different locations by using two novel techniques: SHAP and Conditional Partial Dependence Plot (CPDP).
+</p>
+</td></tr></table>
+<p>[<a href="https://www.sciencedirect.com/science/article/pii/S0966692323002545" target=&ldquo;blank&rdquo;>Link</a>] Zhang, X., Zhou, Z., Xu, Y., &amp; Zhao, X. (2024). Analyzing spatial heterogeneity of ridesourcing usage determinants using explainable machine learning. Journal of Transport Geography, 114, 103782.</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2024-10-07 12:13:37 EDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
