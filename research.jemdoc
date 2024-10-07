@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+- [research/research1.html Responsible AI: Prediction Accuracy]
+- [research/research2.html Responsible AI: Model Transparency and Explainability]
+- [research/research3.html Responsible AI: Algorithmic Fairness]
+- [research/research4.html Multi-sourced Big Data Analytics]
+- [research/research5.html Transportation and Community Resilience]
+
+Click on each topic to view related projects.
+
+I very much appreciate the funding support from the following institutions during my Ph.D. study.
+~~~
+{}{img_left}{figures/acknowledgement.png}{Xiaojian Zhang}{548px}{368px}
+~~~
